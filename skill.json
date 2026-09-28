@@ -1,0 +1,20 @@
+{
+  "name": "genpark-percolator-distributed-transaction-protocol-skill",
+  "version": "1.0.0",
+  "description": "Percolator snapshot-isolated distributed transaction protocol with primary-lock two-phase commit",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "percolator",
+    "distributed-transactions",
+    "snapshot-isolation",
+    "distributed-storage",
+    "acid",
+    "concurrency-control",
+    "python-standard-library",
+    "agent-skills",
+    "database-internals",
+    "two-phase-commit"
+  ]
+}
